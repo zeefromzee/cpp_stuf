@@ -59,4 +59,3 @@ this section explains the Pet_Simulator.cpp file and how to play with it and exp
   * if you want i can help create a CONTRIBUTING file or a template for new project read mes
 
 thank you for creating a gentle sparkly world of C++ code here ☆･ﾟ: *✧･ﾟ:*  
-if you want i can commit this read me into your repository or make a template for future projects so every new file feels as precious as this one
