@@ -35,16 +35,4 @@ this section explains the Pet_Simulator.cpp file and how to play with it and exp
   * put your pet to sleep in a comfy spot zzZ (˘o˘)zzZ
   * view simple static pet stats or say goodbye with sparkles ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-☆彡 project organization ideas ｡･:*:･ﾟ✧
-
-* keep small experiments as single cpp files for quick compile and test
-* group related projects into folders for example games algorithms utilities or experiments
-* add a short header comment at the top of each file describing purpose inputs and how to run it
-* when a project grows make a folder with a dedicated read me and sample run commands
-
-* contributing notes
-  * add new files for experiments or small projects
-  * keep file names descriptive and add small comments so future you can remember what each file does
-  * if you want i can help create a CONTRIBUTING file or a template for new project read mes
-
 thank you for creating a gentle sparkly world of C++ code here ☆･ﾟ: *✧･ﾟ:*  
