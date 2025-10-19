@@ -35,12 +35,6 @@ this section explains the Pet_Simulator.cpp file and how to play with it and exp
   * put your pet to sleep in a comfy spot zzZ (˘o˘)zzZ
   * view simple static pet stats or say goodbye with sparkles ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-* quick notes for tinkering
-  * the program currently runs once per execution you can turn it into a loop to play multiple rounds
-  * add variables to remember the chosen pet and update stats like hunger happiness and energy after each action
-  * extract repeated prompts into functions to make the code neater and easier to expand
-  * try adding tiny ascii art for each pet to make selections extra adorable
-
 ☆彡 project organization ideas ｡･:*:･ﾟ✧
 
 * keep small experiments as single cpp files for quick compile and test
