@@ -42,11 +42,6 @@ this section explains the Pet_Simulator.cpp file and how to play with it and exp
 * add a short header comment at the top of each file describing purpose inputs and how to run it
 * when a project grows make a folder with a dedicated read me and sample run commands
 
-* ideas to grow this collection
-  * add save and load so the pet can persist between sessions
-  * add a folder for mini game mechanics and a folder for tiny tools
-  * create a project template read me to keep each new file consistent and cute
-
 * contributing notes
   * add new files for experiments or small projects
   * keep file names descriptive and add small comments so future you can remember what each file does
